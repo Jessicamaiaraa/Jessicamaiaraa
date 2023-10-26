@@ -1,7 +1,7 @@
 ## Oiii eu sou a Jessica Maiara 👋
 
   <ul>
-        <li>📚 Cursando Analise e desenvolvimento de sistemas 4° semestre</li>
+        <li>📚 Analise e desenvolvimento de sistemas 4° semestre</li>
         <li>👩‍💻 Desenvolverdor Web || Front-End</li>
         <li>✏️ Estudando Javascript/Git e GitHub</li>
         <li>🏙️ São Bernardo do Campo</li>
